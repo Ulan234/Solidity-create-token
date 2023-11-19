@@ -3,7 +3,7 @@
 BCToken Smart Contract
 
 The BCToken Smart Contract is a basic Ethereum-based token contract implemented in Solidity. This README provides an overview of what this contract does and how to use it.
-Introduction
+# Introduction
 
 The BCToken contract is designed to create a simple ERC-20 compatible token on the Ethereum blockchain. It includes features such as token name, symbol, total supply initialization, token minting, and burning.
 Features
